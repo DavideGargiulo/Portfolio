@@ -16,5 +16,4 @@ Contact:
     twitter
     email
     github
-    
     form email
