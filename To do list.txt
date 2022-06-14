@@ -1,0 +1,20 @@
+Homepage:
+    Informazioni a caso
+    linguaggi in cui programmo
+    Università
+
+Works:
+    Progetti scuola
+    Linguaggi    
+
+About me:
+    Informazioni sulla mia formazione
+    Università
+
+Contact:
+    Insta
+    twitter
+    email
+    github
+    
+    form email
